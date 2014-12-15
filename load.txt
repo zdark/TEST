@@ -1,1 +1,1 @@
-ping www.google.com|2
+ping www.test.com|3
