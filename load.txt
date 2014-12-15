@@ -1,1 +1,1 @@
-ping www.test.com|3
+ipconfig|4
